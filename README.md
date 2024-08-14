@@ -1,4 +1,4 @@
-![logo](https://github.com/zeekkhan/banner/blob/main/2nd%20pic%20for%20gt.png)
+![logo]([https://github.com/zeekkhan/banner/blob/main/2nd%20pic%20for%20gt.png](https://github.com/zeekkhan/banner/blob/main/banner%20for%20github.png))
 <h1 align="center">Hi 👋, I'm Aziz Ur Rahman</h1>
 <h3 align="center">A passionate Web developer from Pakistan.</h3>
 
